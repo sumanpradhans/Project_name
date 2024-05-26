@@ -1,2 +1,4 @@
 # Project_name
-It is a Descripion
+this is my first git repostary.
+<br>
+author:sumanpradhans
